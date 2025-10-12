@@ -4,9 +4,6 @@
 The **Personal Finance Management Application** is a simple desktop app built with **Python**, **PyQt6**, **SQLite**, and **Matplotlib**.  
 It allows users to **track income and expenses**, **visualize financial data** with a pie chart, and manage their monthly budgets easily.
 
-<img width="370" height="264" alt="1" src="https://github.com/user-attachments/assets/519f7d83-ea56-486f-a0c8-fd734ada4d52" />
-
-
 
 ## Features
 
@@ -74,3 +71,33 @@ The app uses **SQLite** and automatically creates a database file named **`fin.d
    - Dashboard Tab: Shows total income, total expense, balance, and a pie chart of income vs expenses.
    - Add Transaction Tab: Add income or expense transactions with amount, note, and type.
    - View Transactions Tab: See all your transactions in a table.
+
+  ## Screenshots
+  <img width="370" height="264" alt="1" src="https://github.com/user-attachments/assets/7d634566-2cc8-48eb-8924-0cf38798dc43" />
+
+  <img width="380" height="259" alt="2" src="https://github.com/user-attachments/assets/6e8aa3e0-89a9-44b0-abc4-41fd04d322ec" />
+
+  <img width="873" height="663" alt="3" src="https://github.com/user-attachments/assets/9b4a2ad0-1339-46bd-bd51-6be8dbdd0fbb" />
+
+  <img width="869" height="662" alt="4" src="https://github.com/user-attachments/assets/1dfa3c3e-af26-40a0-b59c-955ce952d8b3" />
+
+  <img width="873" height="664" alt="5" src="https://github.com/user-attachments/assets/af68b2ef-2808-4eaa-8f8c-d5a1903b542d" />
+
+  <img width="876" height="665" alt="6" src="https://github.com/user-attachments/assets/130bdade-9bd4-4c34-879f-3dd7032a6edc" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+  
