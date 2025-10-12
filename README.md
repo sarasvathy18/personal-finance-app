@@ -86,6 +86,12 @@ The app uses **SQLite** and automatically creates a database file named **`fin.d
   <img width="876" height="665" alt="6" src="https://github.com/user-attachments/assets/130bdade-9bd4-4c34-879f-3dd7032a6edc" />
 
 
+  ## Demo
+  https://github.com/user-attachments/assets/aac3c467-b351-4bf5-9129-03c44b6e4812
+
+
+
+
 
 
 
