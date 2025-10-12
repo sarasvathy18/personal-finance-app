@@ -4,6 +4,9 @@
 The **Personal Finance Management Application** is a simple desktop app built with **Python**, **PyQt6**, **SQLite**, and **Matplotlib**.  
 It allows users to **track income and expenses**, **visualize financial data** with a pie chart, and manage their monthly budgets easily.
 
+<img width="370" height="264" alt="1" src="https://github.com/user-attachments/assets/519f7d83-ea56-486f-a0c8-fd734ada4d52" />
+
+
 
 ## Features
 
